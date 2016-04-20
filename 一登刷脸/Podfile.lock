@@ -1,0 +1,10 @@
+PODS:
+  - SuperID (1.6.7.1)
+
+DEPENDENCIES:
+  - SuperID
+
+SPEC CHECKSUMS:
+  SuperID: b468d1561bca3b899c8cdf39062f0f8f2d65be8b
+
+COCOAPODS: 0.39.0
